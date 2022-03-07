@@ -1,0 +1,50 @@
+.topbar {
+  background-color: #f3f3f3;
+  display: flex;
+  padding: 0 10px;
+  height: 80px;
+
+  /* Sticky topbar */
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  box-shadow: var(--bottom-shadow);
+}
+
+.topbarContainer {
+  display: flex;
+}
+
+.topbarLogo {
+  height: 50px;
+}
+
+.topbarLeft,
+.topbarRight {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.topbarRight {
+  justify-content: flex-end;
+}
+
+.topbarItem {
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+}
+
+.topbarIcon {
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.vertLine {
+  background-color: rgb(179, 179, 179);
+  height: 60px;
+  width: 1px;
+}

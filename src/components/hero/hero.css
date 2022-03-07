@@ -1,0 +1,39 @@
+.hero {
+  display: flex;
+  flex-direction: row;
+
+  margin-top: 80px;
+}
+
+.heroText {
+  display: flex;
+  flex-direction: column;
+  background-color: #4b5868;
+  color: #fff;
+  flex: 0.5;
+  max-width: 600px;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel {
+  flex: 1;
+}
+
+.heroImage {
+  /* flex: 1; */
+  /* background-image: url("https://res.cloudinary.com/huan-cloudinary/image/upload/v1646368315/bad_ecommerce/hero_images/television2-unsplash_kd5gyl.jpg"); */
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-width: 500px;
+}
+
+.heroText h1 {
+  font-size: 60px;
+}
+
+.heroText p {
+  font-size: 16px;
+}

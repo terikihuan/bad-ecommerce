@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646368315/bad_ecommerce/hero_images/television2-unsplash_kd5gyl.jpg"
+  },
+  {
+    "id": 2,
+    "image_url": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646631390/bad_ecommerce/hero_images/kitchen2-crop_ls0fps.jpg"
+  },
+  {
+    "id": 3,
+    "image_url": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646632333/bad_ecommerce/hero_images/washer-crop_dvegwc.jpg"
+  }
+]

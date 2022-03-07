@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "name": "154L 直立式冷冻柜 (BX-150SFH)",
+    "price": 1599,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646482050/bad_ecommerce/product_images/154L%20%E7%9B%B4%E7%AB%8B%E5%BC%8F%E5%86%B7%E5%87%8D%E6%AB%83%28TR-150SFH%29.jpg"
+  },
+  {
+    "id": 2,
+    "name": "183L 变频双门冰箱 (BX-SD58V-SL)",
+    "price": 3300,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646482311/bad_ecommerce/product_images/%E8%AE%8A%E9%A0%BB%E9%9B%99%E9%96%80%E5%86%B0%E7%AE%B1583L_SJ-SD58V-SL_jxhggx.jpg"
+  },
+  {
+    "id": 3,
+    "name": "智能制冰 635L对开门冰箱 (BX-AF21021)",
+    "price": 15450,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646549562/bad_ecommerce/product_images/2door-fridge_xupicy.webp"
+  },
+  {
+    "id": 4,
+    "name": "奢华白 9KG 滚筒洗衣机 (XJ-HTV4503)",
+    "price": 750,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646550091/bad_ecommerce/product_images/tvaettad-integrated-washing-machine-white__0995345_pe821722_s5_cfvrmd.webp"
+  },
+  {
+    "id": 5,
+    "name": "奢华白 11/7 KG 洗干一体机 (XJ-01283T)",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646550464/bad_ecommerce/product_images/white_wm_vutise.webp"
+  },
+  {
+    "id": 6,
+    "name": "702L 对开不锈钢冰箱 (BX-1123XD)",
+    "price": 18900,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646549904/bad_ecommerce/product_images/Silver-fridge-with-side-by-side-door-system_r3dxce.jpg"
+  },
+  {
+    "id": 7,
+    "name": "纯白 702L 对开薄型冰箱 (BX-0231BT)",
+    "price": 19900
+  },
+  {
+    "id": 8,
+    "name": "纯白 10KG 波轮洗衣机 (XJ-UH82124)",
+    "price": 900,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646550736/bad_ecommerce/product_images/white-ge-top-load-washers-gtw335asnww-64_600_fd5hlt.webp"
+  },
+  {
+    "id": 9,
+    "name": "606升智能语音冰箱 (BX-R406P12-UI)",
+    "price": 8200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646370377/bad_ecommerce/product_images/R406P12-UI_406%E5%8D%87%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3%E5%86%B0%E7%AE%B1_xshfmk.jpg"
+  },
+  {
+    "id": 10,
+    "name": "钛晶灰 10KG 变频波轮智能洗衣机 (XJ-M1300)",
+    "price": 3300,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646550850/bad_ecommerce/product_images/top_loading_grey_wm_eqexed.jpg"
+  },
+  {
+    "id": 11,
+    "name": "玫瑰红 10KG 变频波轮智能洗衣机 (XJ-M1400)",
+    "price": 3300,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646550994/bad_ecommerce/product_images/red_top_loader_wm_fq6rif.png"
+  },
+  {
+    "id": 12,
+    "name": "白色电热保温一体烧水壶 (EK-W540)",
+    "price": 160,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646555987/bad_ecommerce/product_images/white_ek_danjyn.jpg"
+  },
+  {
+    "id": 13,
+    "name": "黑色电热保温一体烧水壶 (EK-B700)",
+    "price": 170,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646556036/bad_ecommerce/product_images/black_1.25_ek_za3rqw.jpg"
+  },
+  {
+    "id": 14,
+    "name": "芭蕾白118升小双门冰箱 (BX-118KA9)",
+    "price": 3500,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646483186/bad_ecommerce/product_images/%E8%8A%AD%E8%95%BE%E7%99%BD118%E5%8D%87%E5%B0%8F%E5%8F%8C%E9%97%A8%E5%86%B0%E7%AE%B1_BCD-118KA9_dtadz8.jpg"
+  },
+  {
+    "id": 15,
+    "name": "灰色 7KG 波轮智能洗衣机 (XJ-VT5500)",
+    "price": 2900,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646551038/bad_ecommerce/product_images/grey_black_toploader_wm_nbbrup.jpg"
+  },
+  {
+    "id": 16,
+    "name": "灰色 7KG 波轮智能洗衣机 (XJ-AV6500)",
+    "price": 2900,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646551177/bad_ecommerce/product_images/may-giat-casper-long-dung-7-5kg-wt-75n70bga_uxn0ym.jpg"
+  },
+  {
+    "id": 17,
+    "name": "60L 四眼燃气灶电烤箱一体 (KX-BGGA1T)",
+    "price": 6500,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554081/bad_ecommerce/product_images/gas_stove_electric_oven_aibz0y.jpg"
+  },
+  {
+    "id": 18,
+    "name": "海蓝色 9KG 滚筒洗衣机 (XJ-CC210)",
+    "price": 750,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646551440/bad_ecommerce/product_images/Hb65a1d21ce114a2e8de7527aaa6f6c59o_iinikc.jpg"
+  },
+  {
+    "id": 19,
+    "name": "金色 11/7 KG 洗干一体机 (XJ-YT1700)",
+    "price": 3000,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646551470/bad_ecommerce/product_images/H9acfa62bcb6a43dba53b978680550c88U_ahxtya.jpg"
+  },
+  {
+    "id": 20,
+    "name": "金色 7.5KG 波轮智能洗衣机 (XJ-Y700)",
+    "price": 3100,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646551950/bad_ecommerce/product_images/H55a879b9a7df4e6d99c3e9ef5aa3d03bZ_ucwiya.jpg"
+  },
+  {
+    "id": 21,
+    "name": "43英寸 4K超高清电视 (TV-KL47110V)",
+    "price": 8999,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552060/bad_ecommerce/product_images/HTB1pkxDc2jM8KJjSZFsq6xdZpXav_swgqf5.jpg"
+  },
+  {
+    "id": 22,
+    "name": "596升十字四开门冰箱 (BX-496WMSA)",
+    "price": 11099,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646481719/bad_ecommerce/product_images/496%E5%8D%87%E5%8D%81%E5%AD%97%E5%9B%9B%E5%BC%80%E9%97%A8%E5%86%B0%E7%AE%B1BCD-496WMSA_ah1idw.png"
+  },
+  {
+    "id": 23,
+    "name": "40英寸 4K超高清电视 (TV-KL741T)",
+    "price": 7999,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552282/bad_ecommerce/product_images/black_40inch_hidef_tv_bjhu0s.jpg"
+  },
+  {
+    "id": 24,
+    "name": "43英寸 超高清LED智能电视 (TV-KL7703)",
+    "price": 10999,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552346/bad_ecommerce/product_images/43-Inch-LED-Smart-TV-Universal-Television-4K-LED-TV-Smart-TV_ysdtbj.jpg"
+  },
+  {
+    "id": 25,
+    "name": "钛晶灰 900W 变频微波炉 (MW-100WRE)",
+    "price": 439,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552454/bad_ecommerce/product_images/1000watt_mw_xelnze.webp"
+  },
+  {
+    "id": 26,
+    "name": "银色 900W 多功能微波炉 (MW-MTL700R)",
+    "price": 569,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552523/bad_ecommerce/product_images/microwave-oven-500x500_kxaijy.jpg"
+  },
+  {
+    "id": 27,
+    "name": "125L 变频双门冰箱 (BX-BF21403)",
+    "price": 899,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646549664/bad_ecommerce/product_images/2level_fridge_ngm4bw.jpg"
+  },
+  {
+    "id": 28,
+    "name": "780L 变频三门对开冰箱 (BX-090031)",
+    "price": 20699,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646549826/bad_ecommerce/product_images/1Bosch-french-door-refrigerators_chrksx.webp"
+  },
+  {
+    "id": 29,
+    "name": "蓝绿色 700W 小型复古微波炉 (MW-S400)",
+    "price": 700,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552610/bad_ecommerce/product_images/retro_700W_mw_qmobds.jpg"
+  },
+  {
+    "id": 30,
+    "name": "红色 700W 小型复古微波炉 (MW-S600)",
+    "price": 700,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552704/bad_ecommerce/product_images/retro_700W_red_mw_hje3xm.jpg"
+  },
+  {
+    "id": 31,
+    "name": "青蓝色 700W 小型复古微波炉 (MW-S500)",
+    "price": 700,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646553059/bad_ecommerce/product_images/700W_retro_teal_mw_mkuay1.jpg"
+  },
+  {
+    "id": 32,
+    "name": "20英寸 LED电视 (TV-20BV730)",
+    "price": 1299,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552168/bad_ecommerce/product_images/19-inch-led-tv-500x500_f3ccci.jpg"
+  },
+  {
+    "id": 33,
+    "name": "25L 机械式电烤箱 (KX-SM240)",
+    "price": 200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646563226/bad_ecommerce/product_images/%E7%94%B5%E7%83%A4%E7%AE%B1_pgce97.jpg"
+  },
+  {
+    "id": 34,
+    "name": "25L 三层电烤箱 (KX-SM336)",
+    "price": 200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646553762/bad_ecommerce/product_images/cooking-close-up-black-colored-oven-isolated-white-background-high-resolution-image-shot-studio-132652652_yrllny.jpg"
+  },
+  {
+    "id": 35,
+    "name": "金色 3000W 便携式智能电陶炉 (ES-Y3100)",
+    "price": 699,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554721/bad_ecommerce/product_images/Hot-Plates-Electric-ceramic-stove-is-used-for-the-induction-cooker-of-electric.jpg_Q90_cmh6v7.webp"
+  },
+  {
+    "id": 36,
+    "name": "56L 嵌入式电烤箱 (KX-WLL406T)",
+    "price": 4300,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646563588/bad_ecommerce/product_images/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%94%B5%E7%83%A4%E7%AE%B1_nguc8o.png"
+  },
+  {
+    "id": 37,
+    "name": "2200W 便携式小型电磁炉 (ES-DC410Y)",
+    "price": 200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554241/bad_ecommerce/product_images/electric-stove-500x500_kufvor.jpg"
+  },
+  {
+    "id": 38,
+    "name": "2500W 双灶电磁炉 (ES-DC7716)",
+    "price": 600,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554302/bad_ecommerce/product_images/2burner_cooktop_nrotsv.jpg"
+  },
+  {
+    "id": 39,
+    "name": "3500W 双灶智能电陶炉 (ES-7413X)",
+    "price": 1100,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554480/bad_ecommerce/product_images/Hdf03831e955141fca5edc18fb7f4292cT_hn3kua.jpg"
+  },
+  {
+    "id": 40,
+    "name": "22英寸 LED面板电视 (TV-100M74)",
+    "price": 3100,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646552225/bad_ecommerce/product_images/black_led_tv_llorqy.jpg"
+  },
+  {
+    "id": 41,
+    "name": "2200W 便携式智能电磁炉 (ES-DC550U)",
+    "price": 350,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554442/bad_ecommerce/product_images/%E7%94%B5%E7%A3%81%E7%82%89_eqo4no.png"
+  },
+  {
+    "id": 42,
+    "name": "银色 600W 小型微波炉 (MW-GT160)",
+    "price": 320
+  },
+  {
+    "id": 43,
+    "name": "黑色 1000W 多功能微波炉 (MW-MX600)",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646553284/bad_ecommerce/product_images/black_mw_tdrjbg.webp"
+  },
+  {
+    "id": 44,
+    "name": "2200W 便携式电陶炉 (ES-1190T)",
+    "price": 250,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554694/bad_ecommerce/product_images/HTB108JnXSMmBKNjSZTEq6ysKpXas_x8dnn2.jpg"
+  },
+  {
+    "id": 45,
+    "name": "黑色 小型手持式吸尘机 (VC-BL9100)",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646555060/bad_ecommerce/product_images/compact_bagless_black_vc_w8x91j.webp"
+  },
+  {
+    "id": 46,
+    "name": "钛晶灰 11/7 KG 洗干一体机 (XJ-YT1800)",
+    "price": 3000,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646551521/bad_ecommerce/product_images/H07a5bdd4bd2d42f1b165e8ed376f616bB_r66e5i.jpg"
+  },
+  {
+    "id": 47,
+    "name": "橙白色 小型手持式吸尘机 (VC-BL9200)",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646554987/bad_ecommerce/product_images/orange_white_wheel_vc_fkkehi.webp"
+  },
+  {
+    "id": 48,
+    "name": "银色 1000W 多功能微波炉 (MW-SF774)",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646553173/bad_ecommerce/product_images/convection_mw_nqkc1j.jpg"
+  },
+  {
+    "id": 49,
+    "name": "黄白色 小型手持式吸尘机 (VC-BL9300)",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646555120/bad_ecommerce/product_images/bagless_yellow_vc_ulwyvo.webp"
+  },
+  {
+    "id": 50,
+    "name": "不锈钢电热水壶 (EK-CHP100)",
+    "price": 70,
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1646555887/bad_ecommerce/product_images/1.8l_ek_pvbgf8.png"
+  }
+]

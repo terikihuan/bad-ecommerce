@@ -1,0 +1,136 @@
+.titleGroup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: var(--primary-main);
+}
+
+.titleLine {
+  margin: 0 30px;
+  height: 4px;
+  width: 100%;
+  background-color: var(--primary-main);
+}
+
+.pageTitle {
+  width: 150px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.productsGroup {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.productCardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1150px;
+  gap: 20px 15px;
+}
+
+/* PRODUCT CARD */
+.productCard {
+  /* border: 2px solid var(--light-grey-1); */
+  max-width: 210px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: var(--border-shadow);
+  position: relative;
+  z-index: 1;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.productImgWrapper {
+  width: 205px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.productImg {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 10px;
+}
+
+.productCardDesc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  height: 70px;
+
+  padding: 0 10px;
+}
+
+.productName {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 400;
+}
+
+.productPrice {
+  font-size: 14px;
+  color: rgb(104, 104, 104);
+}
+
+.addToCartBtn {
+  background-color: var(--primary-light);
+  color: var(--secondary-main);
+  border: none;
+  border-bottom: 4px solid var(--primary-main);
+  border-radius: 5px;
+
+  font-size: 14px;
+  padding: 5px 20px;
+  outline: none;
+
+  cursor: pointer;
+  outline: none;
+  overflow: hidden;
+  transition: all 0.1s;
+}
+.addToCartBtn:hover {
+  background-color: var(--primary-lighter);
+}
+.addToCartBtn:active {
+  margin-top: 2px;
+  border-bottom-width: 3px;
+}
+
+.ripple {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  width: 0;
+  height: 0;
+
+  border-radius: 50%;
+  background-color: white;
+
+  pointer-events: none;
+  opacity: 0.5;
+  animation: ripple 0.5s linear;
+}
+
+@keyframes ripple {
+  to {
+    width: 15rem;
+    height: 15rem;
+    opacity: 0;
+  }
+}
