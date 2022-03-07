@@ -13,7 +13,7 @@ const Hero = () => {
     <div className="hero">
       <div className="heroText">
         <h1>大鑫电子</h1>
-        <p>不断地追求优秀，您家唯一的选择</p>
+        <p>不断追求优秀，您唯一的选择</p>
       </div>
       
       <Carousel className="carousel">
