@@ -44,11 +44,6 @@
   position: relative;
   z-index: 1;
 
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-
   padding-top: 10px;
   padding-bottom: 20px;
 }
@@ -89,6 +84,14 @@
   color: rgb(104, 104, 104);
 }
 
+.btnWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 40px;
+}
+
 .addToCartBtn {
   background-color: var(--primary-light);
   color: var(--secondary-main);
@@ -104,6 +107,8 @@
   outline: none;
   overflow: hidden;
   transition: all 0.1s;
+
+  margin-bottom: 5px;
 }
 .addToCartBtn:hover {
   background-color: var(--primary-lighter);
@@ -111,26 +116,4 @@
 .addToCartBtn:active {
   margin-top: 2px;
   border-bottom-width: 3px;
-}
-
-.ripple {
-  position: absolute;
-  transform: translate(-50%, -50%);
-  width: 0;
-  height: 0;
-
-  border-radius: 50%;
-  background-color: white;
-
-  pointer-events: none;
-  opacity: 0.5;
-  animation: ripple 0.5s linear;
-}
-
-@keyframes ripple {
-  to {
-    width: 15rem;
-    height: 15rem;
-    opacity: 0;
-  }
 }

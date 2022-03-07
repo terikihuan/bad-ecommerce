@@ -15,7 +15,9 @@ const ProductCard = ({product}) => {
         <h4 className="productName">{name}</h4>
         <p className="productPrice">¥ {price}</p>
       </div>
+      <div className="btnWrapper">
         <button className="addToCartBtn" >加入购物车</button>
+      </div>
     </div>
   )
 }
